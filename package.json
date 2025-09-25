@@ -1,0 +1,16 @@
+{
+  "name": "ml-affiliate-generator",
+  "version": "1.0.0",
+  "description": "Gera links de afiliado do Mercado Livre automaticamente",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "puppeteer": "^21.0.0"
+  },
+  "engines": {
+    "node": "18.x"
+  }
+}
